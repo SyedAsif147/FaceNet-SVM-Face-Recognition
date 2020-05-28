@@ -6,3 +6,7 @@ live_face_test.py
 
 # weights
 facenet_keras_weights.h5
+
+# image_files
+data/train/syed_asif
+data/val/syed_asif
