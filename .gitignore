@@ -1,0 +1,8 @@
+# project initialisation
+.spyproject
+
+# live_py_files
+live_face_test.py
+
+# weights
+facenet_keras_weights.h5
