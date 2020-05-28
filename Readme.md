@@ -3,7 +3,7 @@
 #### Steps to run:
 
     1. face_extract.py
-    1. face_embeddings.py
-    1. face_classification.py
-    1. face_test.py
+    2. face_embeddings.py
+    3. face_classification.py
+    4. face_test.py
     
