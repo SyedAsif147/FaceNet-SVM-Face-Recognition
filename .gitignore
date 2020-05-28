@@ -10,3 +10,6 @@ facenet_keras_weights.h5
 # image_files
 data/train/syed_asif
 data/val/syed_asif
+
+#.npz files
+*.npz
