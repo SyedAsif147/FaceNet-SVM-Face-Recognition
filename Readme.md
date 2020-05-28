@@ -1,8 +1,8 @@
 # FaceNet SVM Face Recognition
 
 Steps to run:
-    - face_extract.py
-    - face_embeddings.py
-    - face_classification.py
-    - face_test.py
+    1 face_extract.py
+    1 face_embeddings.py
+    1 face_classification.py
+    1 face_test.py
     
