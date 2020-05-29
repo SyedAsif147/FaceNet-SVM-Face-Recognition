@@ -40,6 +40,8 @@ random_face_emb = testX[selection]
 random_face_class = testy[selection]
 random_face_name = out_encoder.inverse_transform([random_face_class])
 
+# print(random_face_class)
+
 samples = expand_dims(random_face_emb, axis = 0)
 yhat_class = model.predict(samples)
 yhat_prob = model.predict_proba(samples)

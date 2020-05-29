@@ -1,5 +1,6 @@
 # project initialisation
 .spyproject
+.vs
 
 # live_py_files
 live_face_test.py
