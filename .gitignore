@@ -2,9 +2,6 @@
 .spyproject
 .vs
 
-# live_py_files
-live_face_test.py
-
 # weights
 facenet_keras_weights.h5
 
@@ -15,6 +12,8 @@ data/train/syed_atef
 data/val/syed_atef
 data/train/abhijay_bandi
 data/val/abhijay_bandi
+data/train/anabiya
+data/val/anabiya
 
 #.npz files
 *.npz
